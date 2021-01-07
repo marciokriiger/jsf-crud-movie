@@ -3,7 +3,7 @@
 
 A simple project using pure JSF and MVC architecture that allow create, read, update and delete data, in this case, a movie catalog.
 
-![](examples/print.png)
+![](examples/print.PNG)
 
 ## Examples
 
@@ -11,15 +11,15 @@ This project can be adaptable to any souce of data, allowing to manipulate rows 
 
 #### Edit row
 
-![](examples/edit.png)
+![](examples/edit.PNG)
 
 #### Validation name required
 
-![](examples/validation-required-name.png)
+![](examples/validation-required-name.PNG)
 
 #### Validation input type year
 
-![](examples/validation-input-year.png)
+![](examples/validation-input-year.PNG)
 
 
 ## How to import
