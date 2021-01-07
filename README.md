@@ -24,7 +24,13 @@ This project can be adaptable to any souce of data, allowing to manipulate rows 
 
 ## How to import
 
-After clone, unzip the project. On Eclipse IDE, choose "inport project from folder or directory" and select the project. 
+Import... -> General -> Project from Folder or Archive.
+
+### Configure aspects of the project
+
+- Right click on the project -> Properties
+- Project Aspects
+- In Runtimes, select the application server
 
 ## Meta
 
