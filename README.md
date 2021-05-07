@@ -36,6 +36,7 @@ Import... -> General -> Project from Folder or Archive.
 ## Meta
 
 Marcio Kriiger - [in/marciokriiger](https://www.linkedin.com/in/marciokriiger/) - marciovonkriiger@gmail.com
+
 [https://github.com/marciokriiger/jsf-crud-movie](https://github.com/marciokriiger)
 
 Special thanks to Rafael Santos da Silva - [rafssilva](https://github.com/rafssilva), who helped me in the implementation of this project. 
