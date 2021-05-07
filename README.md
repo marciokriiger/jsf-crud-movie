@@ -1,9 +1,10 @@
 # JSF CRUD MOVIE
-> Crud operations in a movie catalog without use of database
+> CRUD operations in a table without use of database
 
 A simple project using pure JSF and MVC architecture that allow create, read, update and delete data, in this case, a movie catalog.
 
-![](examples/print.PNG)
+Sceenshot (click to see demonstration on YouTube)
+[![Project demonstration](examples/print.PNG)](https://youtu.be/Nf6mBpRo7KQ)
 
 ## Examples
 
@@ -34,7 +35,7 @@ Import... -> General -> Project from Folder or Archive.
 
 ## Meta
 
-Marcio Kriiger - [@marciokriiger](https://www.linkedin.com/in/marciokriiger) - marciovonkriiger@gmail.com
+Marcio Kriiger - [in/marciokriiger](https://www.linkedin.com/in/marciokriiger/) - marciovonkriiger@gmail.com
 [https://github.com/marciokriiger/jsf-crud-movie](https://github.com/marciokriiger)
 
 Special thanks to Rafael Santos da Silva - [rafssilva](https://github.com/rafssilva), who helped me in the implementation of this project. 
